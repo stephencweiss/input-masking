@@ -12,7 +12,7 @@ If you find any discrepencies between the original and what this library offers,
 
 ## Features
 
-`input-mask` enables you to include a mask on any input where a specific data entry format is required. The placeholder text remains in place, displaying which characters still need to be included. The placeholder is CSS styleable.
+`react-input-masking` enables you to include a mask on any input where a specific data entry format is required. The placeholder text remains in place, displaying which characters still need to be included. The placeholder is CSS styleable.
 
 The user can enter letters and numbers. All other characters, like spaces, dashes, and parentheses are automatically added by the script, making data entery easier when using dynamic keypads.
 
