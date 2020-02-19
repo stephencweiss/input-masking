@@ -29,13 +29,13 @@ $ npm run storybook
 
 ## Quick Start
 
-Install `input-masking` in your project:
-`npm i input-masking`
+Install `react-input-masking` in your project:
+`npm i react-input-masking`
 
 To use:
 
 ```javascript
-import { MaskedInput } from "input-masking";
+import MaskedInput from "react-input-masking";
 
 <MaskedInput
   id="expiration"
@@ -65,7 +65,7 @@ Then, where you want to use it, import it as follows:
 
 ```javascript
 import React from 'react'
-import MaskedInput from '
+import MaskedInput from 'react-input-masking'
 
 var React = require('react'), MaskedInput = require('../index'); window.onload =
 function () { React.render(
@@ -94,6 +94,8 @@ function () { React.render(
   </li>
 </ul>
 ```
+
+Here's a [example with CodeSandBox.io](https://codesandbox.io/s/react-input-masking-demo-q1hek)
 
 ## Contributing
 
